@@ -47,32 +47,32 @@ namespace M9_CalculatorMVP.Forms
 
         private void FirstArg_KeyPress(object sender, KeyPressEventArgs e)
         {
-            InputCheck.Invoke(sender, e);
+            InputCheck?.Invoke(sender, e);
         }
 
         private void SecondArg_KeyPress(object sender, KeyPressEventArgs e)
         {
-            InputCheck.Invoke(sender, e);
+            InputCheck?.Invoke(sender, e);
         }
 
         private void AdditionBtn_Click(object sender, EventArgs e)
         {
-            Calc.Invoke(CalcOperation.Addition);
+            Calc?.Invoke(CalcOperation.Addition);
         }
 
         private void DifferenceBtn_Click(object sender, EventArgs e)
         {
-            Calc.Invoke(CalcOperation.Difference);
+            Calc?.Invoke(CalcOperation.Difference);
         }
 
         private void MultiplicationBtn_Click(object sender, EventArgs e)
         {
-            Calc.Invoke(CalcOperation.Multiplication);
+            Calc?.Invoke(CalcOperation.Multiplication);
         }
 
         private void DevisionBtn_Click(object sender, EventArgs e)
         {
-            Calc.Invoke(CalcOperation.Division);
+            Calc?.Invoke(CalcOperation.Division);
         }
     }
 }
