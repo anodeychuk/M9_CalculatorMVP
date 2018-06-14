@@ -1,0 +1,10 @@
+C:\Users\Andrii\Source\Repos\M9_CalculatorMVP\M9_CalculatorMVP\bin\Debug\M9_CalculatorMVP.exe.config
+C:\Users\Andrii\Source\Repos\M9_CalculatorMVP\M9_CalculatorMVP\bin\Debug\M9_CalculatorMVP.exe
+C:\Users\Andrii\Source\Repos\M9_CalculatorMVP\M9_CalculatorMVP\bin\Debug\M9_CalculatorMVP.pdb
+C:\Users\Andrii\Source\Repos\M9_CalculatorMVP\M9_CalculatorMVP\obj\Debug\M9_CalculatorMVP.csprojResolveAssemblyReference.cache
+C:\Users\Andrii\Source\Repos\M9_CalculatorMVP\M9_CalculatorMVP\obj\Debug\M9_CalculatorMVP.Forms.CalcForm.resources
+C:\Users\Andrii\Source\Repos\M9_CalculatorMVP\M9_CalculatorMVP\obj\Debug\M9_CalculatorMVP.Properties.Resources.resources
+C:\Users\Andrii\Source\Repos\M9_CalculatorMVP\M9_CalculatorMVP\obj\Debug\M9_CalculatorMVP.csproj.GenerateResource.Cache
+C:\Users\Andrii\Source\Repos\M9_CalculatorMVP\M9_CalculatorMVP\obj\Debug\M9_CalculatorMVP.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\Source\Repos\M9_CalculatorMVP\M9_CalculatorMVP\obj\Debug\M9_CalculatorMVP.exe
+C:\Users\Andrii\Source\Repos\M9_CalculatorMVP\M9_CalculatorMVP\obj\Debug\M9_CalculatorMVP.pdb
